@@ -1,6 +1,6 @@
 /* FILE: logger.cpp
  * AUTHOR: Sandeep Singh
- * DATE: Dec 31, 2017
+ * DATE: May 6, 2018
  * DESCRIPTION : Logging Functionality
  */
 #include "main.h"
