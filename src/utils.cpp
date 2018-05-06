@@ -1,6 +1,6 @@
 /* FILE: checksum.cpp
  * AUTHOR: Sandeep Singh
- * DATE: Dec 31, 2017
+ * DATE: May 6, 2018
  * DESCRIPTION: Checksum Functionality
  */
 #include "main.h"
