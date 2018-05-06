@@ -10,7 +10,7 @@
 
 void* discovery_request_handler(void *arg)
 {
-	struct sockaddr_in server;
+    struct sockaddr_in server;
     struct sockaddr_in client;
     int sockfd;
     unsigned int clientlen;
@@ -89,7 +89,7 @@ void* discovery_request_handler(void *arg)
 
 void init_discovery_service(char* myip)
 {
-	pthread_t thread_id;
+    pthread_t thread_id;
 	
     if( pthread_create(&thread_id, NULL,  discovery_request_handler, (void*) myip) < 0)
     {
