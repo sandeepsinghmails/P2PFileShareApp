@@ -1,6 +1,6 @@
 /* FILE: local.cpp
  * AUTHOR: Sandeep Singh
- * DATE: Dec 31, 2017
+ * DATE: May 6, 2018
  * DESCRIPTION : Client Side Functionality
  */
 
@@ -288,7 +288,8 @@ void* local_request_handler (void *arg)
     	     post_checksum = find_checksum (rcv_filename);
     	     logger << LOG_MSG ("Checksum of downloaded file: ") << post_checksum << endl;
              retries++;
-		 } while ((FAILURE != retVal) && (ERR_NOSUCHFILE != retVal) && (retVal != post_checksum) && (retries < MAX_RETRIES));
+		 } while ((FAILURE != retVal) && (ERR_NOSUCHFILE != retVal) && 
+			  (retVal != post_checksum) && (retries < MAX_RETRIES));
 
 			
    		 if (FAILURE == retVal)
