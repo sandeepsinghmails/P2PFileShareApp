@@ -1,6 +1,6 @@
 /* FILE: p2p.cpp
  * AUTHOR: Sandeep Singh
- * DATE: Dec 31, 2017
+ * DATE: May 6, 2018
  * DESCRIPTION : p2p device's main() 
  */
 #include "main.h"
