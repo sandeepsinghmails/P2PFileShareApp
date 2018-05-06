@@ -26,7 +26,7 @@ void delegate_to_worker_thread (int client_sock)
     }
 	   
     pthread_cond_signal(&clifd_cond);
-	pthread_mutex_unlock(&clifd_mutex);
+    pthread_mutex_unlock(&clifd_mutex);
 }
 
 void worker_request_handler(int connfd)
