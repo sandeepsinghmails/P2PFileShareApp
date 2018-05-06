@@ -11,7 +11,7 @@ This will create create two additional directories:
 **Cleanup:**
 $ make clean
 
-(https://raw.githubusercontent.com/sandeepsinghmails/P2PFileShareApp/master/img/001.png)
+![Create a Project](https://raw.githubusercontent.com/sandeepsinghmails/P2PFileShareApp/master/img/001.png)
 (https://raw.githubusercontent.com/sandeepsinghmails/P2PFileShareApp/master/img/002.png)
 (https://raw.githubusercontent.com/sandeepsinghmails/P2PFileShareApp/master/img/003.png)
 (https://raw.githubusercontent.com/sandeepsinghmails/P2PFileShareApp/master/img/004.png)
