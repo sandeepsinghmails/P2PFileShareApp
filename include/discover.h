@@ -1,6 +1,6 @@
 /* FILE: discover.h
  * AUTHOR: Sandeep Singh
- * DATE: Dec 31, 2017
+ * DATE: May 6, 2018
  * DESCRIPTION : Header File for Discovery Module
  */
 #ifndef __DISCOVER_H__
