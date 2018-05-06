@@ -1,6 +1,6 @@
 /* FILE: discover.cpp
  * AUTHOR: Sandeep Singh
- * DATE: Dec 31, 2017
+ * DATE: May 6, 2018
  * DESCRIPTION : Functionality for Discovery Module
  */
 
